@@ -1,4 +1,4 @@
-#define buzzer 15     // Buzzer connected to pin 7
+#define buzzer 15     // Buzzer connected to pin 15
 #define tempo 140     // Tempo (beats per minute)
 //AVC
 
